@@ -5,6 +5,7 @@ UFC is the biggest Mixed Martial Arts organization. I used this dataset, which c
 
 ## Data
 The dataset can be found on Kaggle at the following link: https://www.kaggle.com/datasets/rajeevw/ufcdata
+
 The json file used can be found at the following link: https://www.kaggle.com/datasets/ktochylin/world-countries/data
 
 ## Tools
