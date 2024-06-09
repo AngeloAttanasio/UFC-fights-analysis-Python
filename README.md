@@ -18,4 +18,4 @@ The code is available as a ipynb file in the "scripts" folder.
 
 ## Storyboard
 My Tableau storyboard for this project (which doesn't contain every step I took as part of the analysis, but only the ones relevant to the final results) can be found here:
-https://public.tableau.com/app/profile/angelo.attanasio/viz/Task6_7_17174562083430/UFCAnaylsis?publish=yes
+https://public.tableau.com/app/profile/angelo.attanasio/viz/Task6_7-AngeloAttanasio/UFCAnaylsis?publish=yes
